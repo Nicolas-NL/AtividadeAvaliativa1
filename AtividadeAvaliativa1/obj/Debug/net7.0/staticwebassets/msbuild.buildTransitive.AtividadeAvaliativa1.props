@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AtividadeAvaliativa1.props" />
+</Project>
